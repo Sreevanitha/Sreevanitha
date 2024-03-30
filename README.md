@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sreevanitha
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning  basic coures in cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - ⚡ Fun fact: Weak passwords are the cause of 80% of hacking-related breaches
 
 <!---
